@@ -38,5 +38,3 @@ Soy un apasionado de la programación y la tecnología. Actualmente estoy cursan
 - [ ] TailWind
 - [ ] React
 - [ ] Node.js
-
-💡 *"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House*
